@@ -1,0 +1,11 @@
+body{
+    
+    background:#FFD1DC;
+}
+img{
+    float: right;
+    margin: auto;
+}
+.clearfix{
+    overflow: auto;
+}
